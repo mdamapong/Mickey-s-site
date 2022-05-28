@@ -6,8 +6,8 @@ export default function About() {
 			<h2>About</h2>
 			<img src='/assets/svg/line.svg' className='line' />
 			<p>
-				Hello! I'm Mickey D, a Software Engineer. I am leaarning and growing
-				into software developement field.
+				Hello! I&lsquo;m Mickey D, a Software Engineer. I am leaarning and
+				growing into software developement field.
 				<a href='https://www.tesla.com/' target='_blank' rel='noreferrer'>
 					Currently working at Tesla - Fortune 100 company
 				</a>
