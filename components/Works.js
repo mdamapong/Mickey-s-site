@@ -4,7 +4,7 @@ import styles from '../styles/Works.module.css';
 export default function Works() {
 	return (
 		<div className={styles.works}>
-			<h2>Works</h2>
+			<h2>Projects</h2>
 			<img src='/assets/svg/line.svg' className='line' />
 			<Row>
 				<Col md={6}>
@@ -35,7 +35,7 @@ export default function Works() {
 				<Col md={6}>
 					<Card className={styles.card}>
 						<a
-							href='https://play.google.com/store/apps/details?id=com.onnich.parambath'
+							href='https://animated-pony-a34044.netlify.app/collections'
 							target='_blank'
 							rel='noreferrer'>
 							<Card.Img
