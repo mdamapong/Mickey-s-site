@@ -12,7 +12,7 @@ export default function Footer() {
 								target='_blank'
 								rel='noreferrer'
 								className='btn-sm btn-default btn-lg'>
-								<i class='bi bi-linkedin'></i>
+								<i className='bi bi-linkedin'></i>
 							</a>
 						</li>
 						<li className='list-inline-item'>
