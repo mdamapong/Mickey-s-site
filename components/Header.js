@@ -3,7 +3,7 @@ import styles from '../styles/Header.module.css';
 export default function Header() {
 	return (
 		<main className={styles.header}>
-			<img src='/assets/images/syamlal.jpg' className={styles.dp} />
+			<img src='/assets/images/mickey.jpg' className={styles.dp} />
 
 			<h1 className={styles.name}>Mickey Damapong</h1>
 

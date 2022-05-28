@@ -13,10 +13,7 @@ export default function Works() {
 							href='https://dota-2-api.vercel.app/1'
 							target='_blank'
 							rel='noreferrer'>
-							<Card.Img
-								variant='top'
-								src='/assets/images/works/techomoro.png'
-							/>
+							<Card.Img variant='top' src='/assets/images/dota2.png' />
 							<Card.Body>
 								<Card.Title className={styles.title}>Dota 2 API</Card.Title>
 								<p className={styles.category}>Search engine</p>
@@ -38,10 +35,7 @@ export default function Works() {
 							href='https://animated-pony-a34044.netlify.app/collections'
 							target='_blank'
 							rel='noreferrer'>
-							<Card.Img
-								variant='top'
-								src='/assets/images/works/parambathapp.png'
-							/>
+							<Card.Img variant='top' src='/assets/images/collectus.png' />
 							<Card.Body>
 								<Card.Title className={styles.title}>Collectus</Card.Title>
 								<p className={styles.category}>Data Collection</p>
@@ -63,7 +57,7 @@ export default function Works() {
 							href='https://new-project-alpha.vercel.app/'
 							target='_blank'
 							rel='noreferrer'>
-							<Card.Img variant='top' src='/assets/images/works/kuty.png' />
+							<Card.Img variant='top' src='/assets/images/news.png' />
 							<Card.Body>
 								<Card.Title className={styles.title}>News </Card.Title>
 								<p className={styles.category}>URL Shortener</p>

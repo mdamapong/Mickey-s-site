@@ -42,7 +42,7 @@ export default function Footer() {
 							Vercel
 						</a>
 					</p>
-					<p className='bottom'>Last update 2022</p>
+					<p className='bottom'>Last update May 2022</p>
 				</div>
 			</div>
 		</footer>
