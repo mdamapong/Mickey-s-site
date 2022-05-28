@@ -21,7 +21,7 @@ export default function Footer() {
 								target='_blank'
 								rel='noreferrer'
 								className='btn-sm btn-default btn-lg'>
-								<i class='bi bi-twitter'></i>
+								<i className='bi bi-twitter'></i>
 							</a>
 						</li>
 						<li className='list-inline-item'>
@@ -30,7 +30,7 @@ export default function Footer() {
 								target='_blank'
 								rel='noreferrer'
 								className='btn-sm btn-default btn-lg'>
-								<i class='bi bi-github'></i>
+								<i className='bi bi-github'></i>
 							</a>
 						</li>
 					</ul>

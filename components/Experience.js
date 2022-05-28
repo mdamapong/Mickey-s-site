@@ -7,7 +7,7 @@ export default function Experience() {
 			<img src='/assets/svg/line.svg' className='line' />
 			<div className={styles.lineContainer}>
 				<div className={styles.line}>
-					<i class='bi bi-briefcase'></i>
+					<i className='bi bi-briefcase'></i>
 					<div>
 						<div className={styles.college}>
 							<a href='https://redmonark.com/' target='_blank' rel='noreferrer'>
