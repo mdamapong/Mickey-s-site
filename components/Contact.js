@@ -20,7 +20,6 @@ export default function Contact() {
 				<Col lg={4} md={6} sm={12}>
 					<a href='' target='_blank' rel='noreferrer' className={styles.box}>
 						{' '}
-						//add link for text
 						<i className='bi bi-whatsapp'></i>
 						Message
 					</a>
