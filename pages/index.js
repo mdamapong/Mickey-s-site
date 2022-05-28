@@ -17,8 +17,7 @@ export default function Home() {
 				<meta
 					name='description'
 					content='
-        Syamlal CM is a Software Engineer & Internet Entrepreneur. He is the Founder & CEO
-        at Floyet Technologies.'
+         Mickey D, a Software Engineer.'
 				/>
 				<meta name='theme-color' content='#ffffff' />
 
@@ -26,19 +25,14 @@ export default function Home() {
 				<meta
 					name='og:title'
 					content='
-          Syamlal CM - Software Engineer & Internet Entrepreneur, Founder & CEO
-          at Floyet Technologies, • Next.js • React.js • Express.js • MongoDB'
+          Mickey D - Software Engineer, • Next.js • React.js • Express.js • MongoDB'
 				/>
-				<meta
-					name='keywords'
-					content='syam,lal,cm,syamlal,syamlal cm,software engineer, internet entrepreneur'
-				/>
+				<meta name='keywords' content='Mickey, Mickey D,software engineer' />
 				<meta name='og:url' content='https://syam.me' />
 				<meta
 					name='og:description'
 					content='
-          Syamlal CM is a Software Engineer & Internet Entrepreneur. He is the Founder & CEO
-        at Floyet Technologies.'
+          Mickey D, a Software Engineer.'
 				/>
 				<meta name='og:image' content='/assets/images/syamlal-og.jpg' />
 
