@@ -8,6 +8,7 @@ import Education from '../components/Education';
 import Works from '../components/Works';
 import Contact from '../components/Contact';
 import About from '../components/About';
+import Timeline from '../components/Timeline';
 
 export default function Home() {
 	return (
@@ -51,6 +52,7 @@ export default function Home() {
 					<Experience />
 					<Education />
 					<Works />
+					<Timeline />
 					<Contact />
 					<Footer />
 				</Card.Body>
