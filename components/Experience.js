@@ -10,7 +10,7 @@ export default function Experience() {
 					<i className='bi bi-briefcase'></i>
 					<div>
 						<div className={styles.college}>
-							<a href='https://redmonark.com/' target='_blank' rel='noreferrer'>
+							<a href='' target='_blank' rel='noreferrer'>
 								Tesla Fremont
 							</a>
 						</div>

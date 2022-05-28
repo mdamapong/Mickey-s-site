@@ -60,7 +60,7 @@ export default function Works() {
 							<Card.Img variant='top' src='/assets/images/news.png' />
 							<Card.Body>
 								<Card.Title className={styles.title}>News </Card.Title>
-								<p className={styles.category}>URL Shortener</p>
+								<p className={styles.category}>API</p>
 								<Card.Text>
 									A simple news API Page that uses Next.js library that builds
 									with HTML, CSS, JS and builds client-rendered applications
