@@ -1,5 +1,6 @@
 import React from 'react';
 import { Chrono } from 'react-chrono';
+import styles from '../styles/Timeline.module.css';
 
 export default function Timeline() {
 	const items = [
@@ -41,7 +42,7 @@ export default function Timeline() {
 		<>
 			<h2>Timeline</h2>
 			<img src='/assets/svg/line.svg' className='line' />
-			<div style={{ width: '500px', height: '950px' }}>
+			<div className={styles.timeline}>
 				<Chrono items={items} mode='VERTICAL' />
 			</div>
 		</>
