@@ -11,7 +11,7 @@ export default function Timeline() {
 			cardSubtitle:
 				'Graduated with Associate in Arts for Transfer Anthropology',
 			cardDetailedText:
-				'Critically examine and comprehend human nature and behavior, social traditions, and institutions...',
+				'Critically examined and comprehended human nature and behavior, social traditions, and institutions...',
 		},
 		{
 			title: 'August 2020',
@@ -19,7 +19,7 @@ export default function Timeline() {
 			url: 'https://www.appacademy.io/',
 			cardSubtitle: 'Completed prep course',
 			cardDetailedText:
-				'Learn over 40 hours of curriculum centered around JavaScript.',
+				'Learned over 40 hours of curriculum centered around JavaScript.',
 		},
 		{
 			title: 'April 2022',
@@ -27,7 +27,7 @@ export default function Timeline() {
 			url: 'https://generalassemb.ly/locations/san-francisco',
 			cardSubtitle: 'Completed Software Engineering Immersive 12 weeks',
 			cardDetailedText:
-				'Learn the fundamental skills to build full-stack web applications.',
+				'Learned the fundamental skills to build full-stack web applications.',
 		},
 		{
 			title: 'May 2022',
