@@ -3,6 +3,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Montserrat", sans-serif !important;
+  background: linear-gradient(-120DEG, #4285f4, #34A853, #FBBC05 , #EA4335);
 }
 
 a {
